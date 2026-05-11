@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits } = require("discord.js");
 
 const PREFIX = "!";
-const TOKEN = "MTQzNzg2OTk2NjExMTE0NTk4NQ.GEV4Ao.eD9hkvbHMEebe0rRJLaFgKopzaUj99xZneDROc";
+const TOKEN = "YOUR_BOT_TOKEN";
 
 const client = new Client({
   intents: [
